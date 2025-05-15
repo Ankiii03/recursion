@@ -1,0 +1,11 @@
+int m,n,p,q;
+    int arr[m][n];
+    int brr[p][q];
+    printf("enter the number of rows in arr");
+    scanf("%d",&m);
+     printf("enter the number of columns in arr");
+    scanf("%d",&n);
+     printf("enter the number of rows in arr");
+    scanf("%d",&p);
+     printf("enter the number of columns in arr");
+    scanf("%d",&q);
